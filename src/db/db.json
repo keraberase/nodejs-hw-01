@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Alvin Casper",
+    "phone": "(878) 295-4320",
+    "email": "Annabell50@hotmail.com",
+    "job": "Product Interactions Specialist"
+  },
+  {
+    "name": "Winifred Bailey",
+    "phone": "(834) 622-7917 x448",
+    "email": "Alf_Bogisich@yahoo.com",
+    "job": "Customer Creative Administrator"
+  },
+  {
+    "name": "Boyd Wilkinson",
+    "phone": "1-701-777-4362 x62840",
+    "email": "Elena_Hamill18@hotmail.com",
+    "job": "National Marketing Supervisor"
+  },
+  {
+    "name": "Cedric Schinner",
+    "phone": "1-865-679-5083 x84405",
+    "email": "Jermain85@hotmail.com",
+    "job": "Senior Configuration Specialist"
+  },
+  {
+    "name": "Penny Nienow",
+    "phone": "1-629-270-1745 x650",
+    "email": "Hope72@yahoo.com",
+    "job": "Lead Solutions Director"
+  }
+]
